@@ -1,8 +1,11 @@
-{"users" : [
-  {
-    "id":1,
-    "name": "Rayyan"
-  }],
- 
- "data":{}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
